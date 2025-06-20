@@ -1,0 +1,99 @@
+2025-06-12 18:18:51,552 - INFO - train_models.py:25 - ModelTrainer initialized with classifier type: ClassifierType.NAIVE_BAYES
+2025-06-12 18:18:51,552 - INFO - train_models.py:29 - Preprocessing data
+2025-06-12 18:18:51,552 - INFO - train_models.py:31 - Loading data from c:\Khac\Project\000_ai\nmAI_Spam_filter-main\spam_detector_ai\data\spam.csv
+2025-06-12 18:19:05,121 - INFO - trainer.py:44 - Train each model with the pre-split data
+
+2025-06-12 18:19:05,121 - INFO - trainer.py:19 - Training ClassifierType.NAIVE_BAYES
+2025-06-12 18:19:05,121 - INFO - train_models.py:25 - ModelTrainer initialized with classifier type: ClassifierType.NAIVE_BAYES
+2025-06-12 18:19:05,122 - INFO - train_models.py:57 - Training started.
+2025-06-12 18:19:07,507 - INFO - train_models.py:60 - Training completed.
+2025-06-12 18:19:07,507 - INFO - train_models.py:86 - Saving model to c:\Khac\Project\000_ai\nmAI_Spam_filter-main\spam_detector_ai\models\bayes\naive_bayes_model.joblib
+2025-06-12 18:19:07,529 - INFO - train_models.py:88 - Model saved.
+
+2025-06-12 18:19:07,531 - INFO - trainer.py:19 - Training ClassifierType.RANDOM_FOREST
+2025-06-12 18:19:07,531 - INFO - train_models.py:25 - ModelTrainer initialized with classifier type: ClassifierType.RANDOM_FOREST
+2025-06-12 18:19:07,531 - INFO - train_models.py:57 - Training started.
+2025-06-12 18:27:06,460 - INFO - train_models.py:25 - ModelTrainer initialized with classifier type: ClassifierType.NAIVE_BAYES
+2025-06-12 18:27:06,461 - INFO - train_models.py:29 - Preprocessing data
+2025-06-12 18:27:06,461 - INFO - train_models.py:31 - Loading data from c:\Khac\Project\000_ai\nmAI_Spam_filter-main\spam_detector_ai\data\spam.csv
+2025-06-12 18:27:19,240 - INFO - trainer.py:45 - Train each model with the pre-split data
+
+2025-06-12 18:27:19,241 - INFO - trainer.py:20 - Training ClassifierType.NAIVE_BAYES
+2025-06-12 18:27:19,241 - INFO - train_models.py:25 - ModelTrainer initialized with classifier type: ClassifierType.NAIVE_BAYES
+2025-06-12 18:27:19,241 - INFO - train_models.py:57 - Training started.
+2025-06-12 18:27:21,457 - INFO - train_models.py:60 - Training completed.
+2025-06-12 18:27:21,458 - INFO - train_models.py:86 - Saving model to c:\Khac\Project\000_ai\nmAI_Spam_filter-main\spam_detector_ai\models\bayes\naive_bayes_model.joblib
+2025-06-12 18:27:21,485 - INFO - train_models.py:88 - Model saved.
+
+2025-06-12 18:27:21,487 - INFO - trainer.py:20 - Training ClassifierType.RANDOM_FOREST
+2025-06-12 18:27:21,487 - INFO - train_models.py:25 - ModelTrainer initialized with classifier type: ClassifierType.RANDOM_FOREST
+2025-06-12 18:27:21,488 - INFO - train_models.py:57 - Training started.
+2025-06-12 18:30:21,447 - INFO - train_models.py:25 - ModelTrainer initialized with classifier type: ClassifierType.NAIVE_BAYES
+2025-06-12 18:30:21,448 - INFO - train_models.py:29 - Preprocessing data
+2025-06-12 18:30:21,448 - INFO - train_models.py:31 - Loading data from c:\Khac\Project\000_ai\nmAI_Spam_filter-main\spam_detector_ai\data\spam.csv
+2025-06-12 18:30:35,145 - INFO - trainer.py:45 - Train each model with the pre-split data
+
+2025-06-12 18:30:35,146 - INFO - trainer.py:20 - Training ClassifierType.NAIVE_BAYES
+2025-06-12 18:30:35,146 - INFO - train_models.py:25 - ModelTrainer initialized with classifier type: ClassifierType.NAIVE_BAYES
+2025-06-12 18:30:35,146 - INFO - train_models.py:57 - Training started.
+2025-06-12 18:30:37,802 - INFO - train_models.py:60 - Training completed.
+2025-06-12 18:30:37,802 - INFO - train_models.py:86 - Saving model to c:\Khac\Project\000_ai\nmAI_Spam_filter-main\spam_detector_ai\models\bayes\naive_bayes_model.joblib
+2025-06-12 18:30:37,831 - INFO - train_models.py:88 - Model saved.
+
+2025-06-12 18:30:37,833 - INFO - trainer.py:20 - Training ClassifierType.RANDOM_FOREST
+2025-06-12 18:30:37,833 - INFO - train_models.py:25 - ModelTrainer initialized with classifier type: ClassifierType.RANDOM_FOREST
+2025-06-12 18:30:37,833 - INFO - train_models.py:57 - Training started.
+2025-06-12 18:31:32,244 - INFO - train_models.py:25 - ModelTrainer initialized with classifier type: ClassifierType.NAIVE_BAYES
+2025-06-12 18:31:32,245 - INFO - train_models.py:29 - Preprocessing data
+2025-06-12 18:31:32,245 - INFO - train_models.py:31 - Loading data from c:\Khac\Project\000_ai\nmAI_Spam_filter-main\spam_detector_ai\data\spam.csv
+2025-06-12 18:31:45,503 - INFO - trainer.py:45 - Train each model with the pre-split data
+
+2025-06-12 18:31:45,504 - INFO - trainer.py:20 - Training ClassifierType.NAIVE_BAYES
+2025-06-12 18:31:45,504 - INFO - train_models.py:25 - ModelTrainer initialized with classifier type: ClassifierType.NAIVE_BAYES
+2025-06-12 18:31:45,504 - INFO - train_models.py:57 - Training started.
+2025-06-12 18:31:47,723 - INFO - train_models.py:60 - Training completed.
+2025-06-12 18:31:47,724 - INFO - train_models.py:86 - Saving model to c:\Khac\Project\000_ai\nmAI_Spam_filter-main\spam_detector_ai\models\bayes\naive_bayes_model.joblib
+2025-06-12 18:31:47,742 - INFO - train_models.py:88 - Model saved.
+
+2025-06-12 18:31:47,745 - INFO - trainer.py:20 - Training ClassifierType.RANDOM_FOREST
+2025-06-12 18:31:47,747 - INFO - train_models.py:25 - ModelTrainer initialized with classifier type: ClassifierType.RANDOM_FOREST
+2025-06-12 18:31:47,747 - INFO - train_models.py:57 - Training started.
+2025-06-12 18:33:46,149 - INFO - train_models.py:25 - ModelTrainer initialized with classifier type: ClassifierType.NAIVE_BAYES
+2025-06-12 18:33:46,150 - INFO - train_models.py:29 - Preprocessing data
+2025-06-12 18:33:46,151 - INFO - train_models.py:31 - Loading data from c:\Khac\Project\000_ai\nmAI_Spam_filter-main\spam_detector_ai\data\spam.csv
+2025-06-12 18:33:59,268 - INFO - trainer.py:45 - Train each model with the pre-split data
+
+2025-06-12 18:33:59,269 - INFO - trainer.py:20 - Training ClassifierType.NAIVE_BAYES
+2025-06-12 18:33:59,269 - INFO - train_models.py:25 - ModelTrainer initialized with classifier type: ClassifierType.NAIVE_BAYES
+2025-06-12 18:33:59,269 - INFO - train_models.py:57 - Training started.
+2025-06-12 18:34:01,201 - INFO - train_models.py:60 - Training completed.
+2025-06-12 18:34:01,202 - INFO - train_models.py:86 - Saving model to c:\Khac\Project\000_ai\nmAI_Spam_filter-main\spam_detector_ai\models\bayes\naive_bayes_model.joblib
+2025-06-12 18:34:01,209 - INFO - train_models.py:88 - Model saved.
+
+2025-06-12 18:34:01,211 - INFO - trainer.py:20 - Training ClassifierType.RANDOM_FOREST
+2025-06-12 18:34:01,212 - INFO - train_models.py:25 - ModelTrainer initialized with classifier type: ClassifierType.RANDOM_FOREST
+2025-06-12 18:34:01,212 - INFO - train_models.py:57 - Training started.
+2025-06-12 18:34:51,087 - INFO - train_models.py:25 - ModelTrainer initialized with classifier type: ClassifierType.NAIVE_BAYES
+2025-06-12 18:34:51,088 - INFO - train_models.py:29 - Preprocessing data
+2025-06-12 18:34:51,088 - INFO - train_models.py:31 - Loading data from c:\Khac\Project\000_ai\nmAI_Spam_filter-main\spam_detector_ai\data\spam.csv
+2025-06-12 18:35:05,237 - INFO - trainer.py:45 - Train each model with the pre-split data
+
+2025-06-12 18:35:05,237 - INFO - trainer.py:20 - Training ClassifierType.NAIVE_BAYES
+2025-06-12 18:35:05,238 - INFO - train_models.py:25 - ModelTrainer initialized with classifier type: ClassifierType.NAIVE_BAYES
+2025-06-12 18:35:05,238 - INFO - train_models.py:57 - Training started.
+2025-06-12 18:35:07,940 - INFO - train_models.py:60 - Training completed.
+2025-06-12 18:35:07,941 - INFO - train_models.py:86 - Saving model to c:\Khac\Project\000_ai\nmAI_Spam_filter-main\spam_detector_ai\models\bayes\naive_bayes_model.joblib
+2025-06-12 18:35:07,949 - INFO - train_models.py:88 - Model saved.
+
+2025-06-12 18:35:07,951 - INFO - trainer.py:20 - Training ClassifierType.RANDOM_FOREST
+2025-06-12 18:35:07,951 - INFO - train_models.py:25 - ModelTrainer initialized with classifier type: ClassifierType.RANDOM_FOREST
+2025-06-12 18:35:07,951 - INFO - train_models.py:57 - Training started.
+2025-06-12 20:55:17,608 - INFO - train_models.py:25 - ModelTrainer initialized with classifier type: ClassifierType.NAIVE_BAYES
+2025-06-12 20:55:17,609 - INFO - train_models.py:29 - Preprocessing data
+2025-06-12 20:55:17,609 - INFO - train_models.py:31 - Loading data from c:\Khac\Project\000_ai\nmAI_Spam_filter-main\spam_detector_ai\data\spam.csv
+2025-06-12 20:56:30,985 - INFO - train_models.py:25 - ModelTrainer initialized with classifier type: ClassifierType.NAIVE_BAYES
+2025-06-12 20:56:30,985 - INFO - train_models.py:29 - Preprocessing data
+2025-06-12 20:56:30,985 - INFO - train_models.py:31 - Loading data from c:\Khac\Project\000_ai\nmAI_Spam_filter-main\spam_detector_ai\data\spam.csv
+2025-06-12 21:08:42,102 - INFO - train_models.py:25 - ModelTrainer initialized with classifier type: ClassifierType.NAIVE_BAYES
+2025-06-12 21:08:42,102 - INFO - train_models.py:29 - Preprocessing data
+2025-06-12 21:08:42,102 - INFO - train_models.py:31 - Loading data from c:\Khac\Project\000_ai\nmAI_Spam_filter-main\spam_detector_ai\data\spam.csv
